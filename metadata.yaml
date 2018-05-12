@@ -1,5 +1,8 @@
 _repo: Nan--a-Milano_9302
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arrighi, Cletto
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3005
     wikipedia: http://it.wikipedia.org/wiki/Cletto_Arrighi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9302#Nan--a-Milano
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
